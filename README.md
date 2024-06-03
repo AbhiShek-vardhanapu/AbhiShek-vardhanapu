@@ -1,5 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
-https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc0NDU2NTUsIm5iZiI6MTcxNzQ0NTM1NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAzVDIwMDkxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ1ZjI4YTViMjg5YzdiMTYzZDExZDczNTM1YmNiNmViZGEwMjAwMWU1ODBlZGI0ZDI0NzE0MDE5ZjQ3MTAzZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CCimNGabxgqvfmMWiMov8qHg1AsFX9y27KgtMPVXlnY
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
+
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
